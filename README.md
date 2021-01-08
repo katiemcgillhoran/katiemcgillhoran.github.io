@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Katie Horan- Independent College Counselor
 
-You can use the [editor on GitHub](https://github.com/katiemcgillhoran/katiemcgillhoran.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Counselling Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Free Intro Meeting
+Do you have a high school student? Call, text, or email to set up a free introductory meeting to see how Katie can help your student and family navigate the college process.
 
-### Markdown
+### Services
+- Pay-as-you-go hourly advice (course scheduling, college lists, editing, interview prep)
+- Basic package: guiding student through Common/Coalition App, activities presentation and main essay
+- Supplement package: brainstorming topics and editing drafts of school-specific essays
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hours
+Katie can come to your home, or meet students in an environment where they feel comfortable and productive, like a library or coffee shop. She’s available many evenings or weekends, working around the student’s schedule.
 
-```markdown
-Syntax highlighted code block
+## Experience
+Katie has a bachelor’s degree in history and Certificate in American Studies from Princeton University. After serving as a Resident Advisor her senior year, she started volunteering for her local Alumni Schools Committee upon graduation, interviewing applicants and visiting high schools and college fairs. While working as an editor in the financial industry and an account manager for a health care information company, she completed her MBA in Marketing and International Business at NYU’s Stern School.
+Engaging with young people has always been her passion — from leading story times for toddlers at the local library, to coaching youth sports, to helping high school students navigate the college process. With a balanced approach and advance planning, the journey to finding a good college fit doesn’t have to be painful.  
 
-# Header 1
-## Header 2
-### Header 3
+### Colleges attended by students Katie has worked with
+| Bates |
+| Baylor |
+| Boston College |
+| Boston University | 
+| Bucknell |
+| Case Western | 
+| Clemson |
+| Colgate |
+| College of Charleston |
+| Cooper Union |
+| Cornell |
+| Drew |
+| Duke |
+| Eckerd College |
+| Elon |
+| Emerson |
+| Fairfield |
+| Fordham |
+| Franklin & Marshall |
+| Georgetown |
+| Gettysburg |
+| Hamilton |
+| Harvard |
+| Hobart |
+| Ithaca |
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katiemcgillhoran/katiemcgillhoran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Top 10 Suggestions
+1. Start window shopping for college fit early (size, location, distance from home)
+2. Visit ‘Likely’ and ‘Target’ schools along with ‘Reaches’ 
+3. Explore different academic and outside interests, but also show some consistency
+4. Prepare/plan for the ACT/SAT  (but know there are many Test Optional schools if that’s not your strength)
+5. Engage with teachers in core academic subjects
+6. Enter senior year with a balanced list of about 8-10 colleges
+7. Consult Naviance and apply to at least 1-2 ‘Likely’ colleges with non-binding Early Action or Rolling Admission
+8. Keep your options open and finish strong senior year 
+9. Be patient as the process plays out and be considerate of others along the way
+10. You’ll get out of college what you put in — pursue your goals wherever you land!
